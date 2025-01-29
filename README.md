@@ -30,10 +30,17 @@ The system consists of:
 ### Simulation  
 Validated controller performance using:  
 - **Linearized system**  
-- **Original nonlinear system**  
+- **Original nonlinear system**
+
+## Contributors
+Varad Nerlekar
+Munyaradzi Antony
+Associated with : University of Maryland, College Park  
 
 ## Dependencies & Setup  
 Ensure you have the following installed:  
 ```bash
 pip install numpy scipy matplotlib control
+
+
 
